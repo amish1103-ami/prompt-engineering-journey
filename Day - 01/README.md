@@ -37,18 +37,18 @@ A. LLMs do not produce identical outputs every time because they select words ba
 
 ### Zero-Shot Prompting
 
-[Asking the model to perform a task directly without providing examples.]
+Asking the model to perform a task directly without providing examples.
 
 ### Few-Shot Prompting
 
-[Providing a few input-output examples inside the prompt to demonstrate the desired pattern.]
+Providing a few input-output examples inside the prompt to demonstrate the desired pattern.
 
 ### Role/Persona Prompting
 
-[Telling the model to act as a specific entity (e.g., "Act as a senior software developer"). ]
+Telling the model to act as a specific entity (e.g., "Act as a senior software developer").
 
 ### Other Concepts: Chain of Thought
 
-[Instructing the model to solve complex tasks step-by-step to improve reasoning accuracy. ]
+Instructing the model to solve complex tasks step-by-step to improve reasoning accuracy. 
 
 ## Day 1 Completed
